@@ -1,0 +1,17 @@
+# Wordpress - ignore core, configuration, examples, uploads and logs.
+# https://github.com/github/gitignore/blob/main/WordPress.gitignore
+
+
+# Uploads
+/wp-content/uploads/
+
+# Log files
+*.log
+
+# Divi cache
+wp-content/et-cache/
+
+# DS-Store files and other local macOS files
+*.DS_Store
+.user.ini
+wp-config-local.php
