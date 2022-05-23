@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Equational Applications LLC</title>
+  <meta name="description" content="Software and Web Development">
+  <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+  <script src="https://kit.fontawesome.com/210152f754.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <!-- Page Container -->
+  <div class="block">
+    <div class="columns">
+
+      <!-- Left Column -->
+      <div class="column">
+        <section class="section">
+          <div class="box">
+            <div class="block">
+              <a href="https://www.equationalapplications.com/" title="Home">
+                <img src="./images/eqapp-192x192.png" alt="Equational Applications LLC Logo">
+              </a>
+            </div>
+            <div class="container">
+              <h1 class="title">Equational Applications LLC</h1>
+              <h3 class="subtitle">Kurt VanDusen - Sole Proprietor</h3>
+              <span class="icon"><i class="fas fa-briefcase"></i>Software Developer</span>
+              <span><i class="fas fa-home"></i>Grand Rapids, MI, USA</span>
+              <span><i class="fas fa-envelope"></i>info@equationalapplications.com
+              </span>
+              <span><i class="fas fa-phone"></i>(616) 528-0098</span>
+              <hr>
+              <span class="icon-text"><span class="icon"><i class="fas fa-circle"></i></span><span>Android & iOS App
+                  Development</span></span>
+              <span class="icon-text"><span class="icon"><i class="fas fa-circle"></i></span><span>Web
+                  Development</span></span>
+              <span class="icon-text"><span class="icon"><i
+                    class="fa fas-circle"></i></span><span>Consulting</span></span>
+            </div>
+          </div>
+
+
+        </section>
+
+        <!-- End Left Column -->
+
+      </div>
+
+      <!-- Right Column -->
+      <div class="column">
+        <section class="section">
+          <!-- About Equational Applications LLC -->
+
+          <div class="box">
+            <h2 class="title">
+              <span class="icon"><i class="fa fa-globe"></i></span>About Equational
+              Applications LLC
+            </h2>
+            <h4 class="subtitle">
+              <p>Equational Applications LLC publishes software and provides freelance software development services for
+                web and mobile.</p>
+              </s>
+          </div>
+        </section>
+
+        <!-- Hire Me -->
+
+        <section class="section">
+          <div class="box">
+            <h2 class="title">
+              <span class="icon"><i class="fa fa-suitcase "></i></span>Hire Me
+            </h2>
+            <a href="https://www.upwork.com/freelancers/~0190d57fda322b3e73"
+              title="Kurt VanDusen - Equational Applications LLC - Freelance Mobile and Web Developer">Hire
+              Equational
+              Applications LLC on Upwork.</a>
+          </div>
+        </section>
+
+        <!-- About Kurt VanDusen -->
+        <section class="section">
+          <div class="box">
+            <h2 class="w3-text-grey w3-padding-16"><i
+                class="fa fa-info-circle fa-fw w3-margin-right w3-xxlarge w3-text-dark-grey"></i>About Kurt VanDusen
+            </h2>
+            <p><img src="./images/kv_bw_forward_0721.jpg" alt="Kurt VanDusen" width="150"></p>
+            <p>Founder and sole proprietor of Equational Applications LLC. Lover of coding, music, mathematics and
+              science.</p>
+            <div class="w3-container">
+            </div>
+          </div>
+        </section>
+        <!-- Skills -->
+        <section class="section">
+          <div class="box">
+            <h2 class="title"><span class="icon"><i class="fa fa-cogs"></i></span>Skills</h2>
+            <span class="icon"><i class="fa fa-circle"></i></span>React Native</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Word Press</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Ionic Framework</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Firebase</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>TypeScript</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Angular</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>React</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Redux</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Git</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Github Actions</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Microsoft AppCenter</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>CI/CD</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>REST API</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>User Authentication</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>HTML, CSS & JavaScript</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>MySQL</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>PHP</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Drupal</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>WooCommerce</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Divi</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>ViroReact Augmented Reality</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>TensorFlow</p>
+            <span class="icon"><i class="fa fa-circle"></i></span>Natural Language Processing</p>
+          </div>
+        </section>
+        <!-- Portfolio -->
+        <section class="section">
+          <div class="w3-container w3-card w3-white w3-margin-bottom">
+            <h2 class="w3-text-grey w3-padding-16"><i
+                class="fa fa-folder-open fa-fw w3-margin-right w3-xxlarge w3-text-dark-grey"></i>Portfolio</h2>
+
+            <div class="w3-container">
+              <h5 class="w3-opacity"><i class="fa fa-graduation-cap  fa-fw w3-margin-right"></i><b>Instructor for
+                  Eduonix
+                  Jamstack Microservices E-Degree</b></h5>
+              <p>I am an instructor for the "Microservices Using NodeJS" module of the Jamstack E-Degree from Eduonix.
+              </p>
+              <p><a href="https://www.eduonix.com/jamstack-development-edegree"
+                  title="Jamstack Development E-Degree from Eduonix">https://www.eduonix.com/jamstack-development-edegree</a>.
+              </p>
+              <br>
+            </div>
+
+            <div class="w3-container">
+              <h5 class="w3-opacity"><i class="fa fa-github fa-fw w3-margin-right"></i><b>Github Profile</b></h5>
+              <p>Equational Applications profile on Github.</p>
+              <p><a href="https://github.com/equationalapplications"
+                  title="Github for equationalapplications (Kurt VanDusen)">https://github.com/equationalapplications</a>.
+              </p>
+              <br>
+            </div>
+
+            <div class="w3-container">
+              <h5 class="w3-opacity"><i class="fa fa-google fa-fw w3-margin-right"></i><b>AR Pet on Google Play</b></h5>
+              <p>A fun augmented reality app with a virtual pet on Google Play Store.</p>
+              <p><a href="https://play.google.com/store/apps/details?id=com.equationalapplications.arpet"
+                  title="AR Pet - Apps on Google Play">https://play.google.com/store/apps/details?id=com.equationalapplications.arpet</a>
+              </p>
+              <br>
+            </div>
+
+            <div class="w3-container">
+              <h5 class="w3-opacity"><i class="fa fa-suitcase fa-fw w3-margin-right"></i><b>Upwork Freelance Work
+                  History</b></h5>
+              <p>See my Upwork.com reviews and work history.</p>
+              <p><a href="https://www.upwork.com/freelancers/~0190d57fda322b3e73"
+                  title="Kurt VanDusen - Freelance Mobile and Web Developer">https://www.upwork.com/freelancers/~0190d57fda322b3e73</a>
+              </p>
+              <br>
+            </div>
+
+          </div>
+        </section>
+        <!-- Work Experience -->
+        <section class="section">
+          <div class="w3-container w3-card w3-white w3-margin-bottom">
+            <h2 class="w3-text-grey w3-padding-16"><i
+                class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-dark-grey"></i>Work Experience</h2>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Freelance Software Developer / upwork.com</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>March 2020 - <span
+                  class="w3-tag w3-dark-grey w3-round">Current</span></h6>
+              <p>Freelance contracting through Upwork.</p>
+              <hr>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Owner of Equational Applications LLC / equationalapplications.com</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>March 2020 - <span
+                  class="w3-tag w3-dark-grey w3-round">Current</span></h6>
+              <p>Kurt VanDusen independent contracting, consulting and software development as Equational Applications
+                LLC. Android and iOS apps, web development, natural language processing, augmented reality.</p>
+              <hr>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Music Producer / equationalsound.com</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2001 - <span
+                  class="w3-tag w3-dark-grey w3-round">Current</span></h6>
+              <p>Indie music recordig and publishing. </p>
+              <hr>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Owner of Under the Sun Artisan Good / utsag.com</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 - <span
+                  class="w3-tag w3-dark-grey w3-round">Current</span></h6>
+              <p>Online retail beads, gemstones, and jewelry.</p><br>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Web Developer at Alley Cat Bead Company</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2001 - 2015</h6>
+              <p>Drupal e-commerce website developer for online retail store. </p><br>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Owner of Webstore Specialist</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2005 - 2010</h6>
+              <p>Website development for e-commerce and SEO services.</p><br>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Tech Support for Zen-Cart at WD-Web</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2008</h6>
+              <p>Provided client tech support for Zen-Cart e-commerce. </p><br>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Owner of Harmony Grounds Cafe</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2000 - 2005</h6>
+              <p>Coffee, food, music, and culture at Harmony Grounds in Gaylord, Petoskey, and music festivals of
+                Michigan.</p><br>
+            </div>
+          </div>
+        </section>
+        <!-- Education -->
+        <section class="section">
+          <div class="w3-container w3-card w3-white">
+            <h2 class="w3-text-grey w3-padding-16"><i
+                class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-dark-grey"></i>Education</h2>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>University of Chicago</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>1990 - 1991</h6>
+              <p>First year physics and math</p>
+              <hr>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Self Taugh Coding</b></h5>
+              <h6 class="w3-text-dark-grey"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Always</h6>
+              <p>Grew up going to computer camp and fixing home computers. Created one of the first 3D First Person
+                Shooters in 1983. Created an artificial neural network on an Amiga in 1991. Builder of chatbots and
+                augemented reality pets.</p>
+              <hr>
+            </div>
+
+            <!-- End Right Column -->
+        </section>
+      </div>
+
+      <!-- End Grid -->
+    </div>
+
+    <!-- End Page Container -->
+
+    <footer class="footer">
+      <a href="https://www.equationalapplications.com/privacy/">Privacy Policy</a>
+      <br>
+      <a href="https://github.com/equationalapplications/"><i class="fa fa-github w3-hover-opacity"></i></a>
+      <a href="https://www.facebook.com/EquationalApplications"><i
+          class="fa fa-facebook-official w3-hover-opacity"></i></a>
+      <a href="https://twitter.com/kurtvandusen/"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+      <a href="https://www.linkedin.com/in/kurtvandusen/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+    </footer>
+  </div>
+  </div>
+</body>
+
+</html>
